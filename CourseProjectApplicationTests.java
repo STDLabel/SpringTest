@@ -1,4 +1,4 @@
-package com.stdlabel.spring_project.course_project;
+package com.stasdgasdgasdgasdt.course_project;
 
 import com.stdlabel.spring_project.course_project.contoller.ProductController;
 import org.hamcrest.Matchers;
